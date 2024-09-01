@@ -32,19 +32,19 @@ An innovative anonymous messaging platform that allows users to receive messages
 Clone the project
 
 ```bash
-  $ git clone https://github.com/ppriyankuu/secret-speak
+$ git clone https://github.com/ppriyankuu/secret-speak
 ```
 
 Go to the project directory
 
 ```bash
-  $ cd secret-speak
+$ cd secret-speak
 ```
 
 Install dependencies
 
 ```bash
-  $ npm install
+$ npm install
 ```
 
 Take care of the .env variables
@@ -58,7 +58,7 @@ NEXTAUTH_SECRET=
 Start the server
 
 ```bash
-  $ npm run dev
+$ npm run dev
 ```
 
 
