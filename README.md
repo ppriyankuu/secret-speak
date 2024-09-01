@@ -4,15 +4,16 @@ An innovative anonymous messaging platform that allows users to receive messages
 
 
 ```screenshots```
+<br />
 
+`image1`
 ![screenshot_01](https://i.postimg.cc/SNzrcCT1/image1.png)
-```image1```
 
+`image2`
 ![screenshot_02](https://i.postimg.cc/RhtgCH2Y/image2.png)
-```image2```
 
+`image3`
 ![screenshot_03](https://i.postimg.cc/6pJDZ90R/image3.png)
-```image3```
 
 ```simple yet production ready :)```
 
