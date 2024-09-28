@@ -11,7 +11,7 @@ export async function middleware(request: NextRequest) {
   const url = request.nextUrl;
 
   // redirects to dashboard if the user is already authenticated
-  // and trying to access sign-in, sign-up, or home page
+  // and still trying to access sign-in, sign-up, or home page
   if (
     token &&
     (url.pathname.startsWith('/sign-in') ||
