@@ -51,7 +51,7 @@ export const sendVerificationMail = async ({
 
     return { success: true, message: 'Mail sent successfully' };
   } catch (error: any) {
-    console.error(`Something went wrong in node_mailer: ${error.message}`);
+    console.log(`Something went wrong in node_mailer: ${error.message}`);
     return { success: false, message: 'Failed to send the mail' };
   }
 };
