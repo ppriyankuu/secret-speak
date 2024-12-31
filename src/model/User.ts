@@ -64,6 +64,7 @@ const UserSchema: Schema<User> = new mongoose.Schema({
   messages: [MessageSchema],
 });
 
+// Database model
 const UserModel =
   (mongoose.models.User as mongoose.Model<User>) ||
   mongoose.model<User>('User', UserSchema);
